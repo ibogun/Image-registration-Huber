@@ -8,13 +8,15 @@
 %% Dependencies
 % Author:   Ivan Bogun
 %
-% Date:     April 6, 2014
+% Date:     April 25, 2014
 %
 % Required:
 %
 % * Matlab mex functions for opencv: <http://www.cs.stonybrook.edu/~kyamagu/mexopencv/ mexopencv>
 % * VLfeat library  : <http://www.vlfeat.org/ vlfeat>
-% * Source code: 
+% * Source code: <https://github.com/ibogun/Image-registration-Huber git
+% repo>
+%
 % Note: in theory vlfeat functions can be replaced with analogs from
 % mexopencv (SIFT feature extraction and matching). After everything is
 % installed add mexopencv and vlfeat to the PATH.
